@@ -1,1 +1,1 @@
-# movies-recommendor-system
+# movies-recommender-system
